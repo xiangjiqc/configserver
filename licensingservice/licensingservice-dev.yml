@@ -1,2 +1,1 @@
-example
-    property: dev-test
+example.property: "I AM THE DEV"
